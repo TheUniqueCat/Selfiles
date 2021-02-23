@@ -1,3 +1,8 @@
 # Notion
+DOMAIN-SUFFIX,loggly.com,PROXY
+DOMAIN-SUFFIX,segment.com,PROXY
+DOMAIN-SUFFIX,intercom.io,PROXY
+DOMAIN-SUFFIX,intercomcdn.com,PROXY
+DOMAIN-SUFFIX,amplitude.com,PROXY
 DOMAIN-SUFFIX,notion.so,PROXY
 DOMAIN-SUFFIX,amazonaws.com,PROXY
